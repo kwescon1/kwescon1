@@ -6,6 +6,7 @@
 - 👀 Awards? I have not won any yet. Give me time 🤝
 
 - 💞️ I’m looking to collaborate with anyone who wants to collaborate ...
+- The code you read here today may be different tomorrow, why because, I evolve, I learn better ways of doing things and I'm striving to be better than yesterday.
 - 📫 How to reach me  ... LinkedIn: https://www.linkedin.com/in/kwesi-danquah-6361a8166/ , Email: kwesi.odanqua@gmail.com , IMessage : kwescon1@gmail.com
 
 <!---
