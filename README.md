@@ -9,7 +9,7 @@
 - The code you read here today may be different tomorrow, why because, I evolve, I learn better ways of doing things and I'm striving to be better than yesterday.
 - 📫 How to reach me  ... LinkedIn: https://www.linkedin.com/in/kwesi-danquah-6361a8166/ , Email: kwesi.odanqua@gmail.com , IMessage : kwescon1@gmail.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwescon1&count_private=true&hide=contribs&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwescon1&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwescon1&count_private=true&hide=contribs&show_icons=true&theme=radical&custom_title=Kwesi's GitHub Stats)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwescon1&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 kwescon1/kwescon1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
