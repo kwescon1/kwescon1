@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kwesi Odame Danquah
 
 
-- 👀 I am a dedicated professional with an indispensable experience in building maintainable, robust and testable software. I am an efficient problem solver, fast learner and I excel in team environments. I have an interest in AI solutions, data analysis and Financial Technology. I am proficient in writing PHP/Laravel, Javascript/Vue and Java, Go and Python.
+- 👀 I am a dedicated professional with an indispensable experience in building maintainable, robust and testable software. I am an efficient problem solver, fast learner and I excel in team environments. I have an interest in AI solutions, data analysis and Financial Technology and Healthcare.
 - 🌱 I hold a BSc and an MSc in Computer Science
 - 👀 Awards? I have not won any yet. Give me time 🤝
 
